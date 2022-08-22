@@ -44,33 +44,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/kontol_elite'
-global.sgh = 'https://github.com/Jikarinka'
-global.sgc = 'https://chat.whatsapp.com/FF1Bd1U0FHu42rfz6uplbn'
+global.sig = 'https://instagram.com/zall.ajh?igshid=YmMyMTA2M2Y='
+global.sgh = 'https://youtube.com/c/RisalTmy'
+global.sgc = 'https://chat.whatsapp.com/K5cTkWYjC285jHaPefAciM'
 global.sdc = " "
-global.snh = 'https://nhentai.net/g/365296/'
+global.snh = 'https://www.tiktok.com/@zall.ajh?_t=8Ussvm2zM4v&_r=1'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085334930628'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085334930628'
-global.ppulsa2 = '081336990781'
-global.psaweria = '-'
+global.pdana = '0895330006855'
+global.povo = 'Tidak Punya:)'
+global.pgopay = '0895330006855'
+global.ppulsa = '083847931994'
+global.ppulsa2 = '0895330006855'
+global.psaweria = 'Tidak Punya:)'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281336990781'
-global.nomorown = '6285334930628'
+global.nomorbot = '083847931994'
+global.nomorown = '62895328100953'
 global.namebot = 'Kanna BOT'
-global.nameown = 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ'
+global.nameown = '𝐑𝐈𝐙𝐀𝐋 𝐌𝐀𝐊𝐄𝐑'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285334930628'],
-  ['6285334930628'],
-  ['18126338970'],
-  ['6285334930628', 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ', true]
+  ['62895328100953'],
+  ['62895328100953'],
+  ['6283847931994'],
+  ['62895328100953', '𝐑𝐈𝐙𝐀𝐋 𝐌𝐀𝐊𝐄𝐑', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
